@@ -103,14 +103,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gatineau.geotechnicalengineering.xyz/foundations-fill/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <loc>https://gatineau.geotechnicalengineering.xyz/foundations/</loc>
+    <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gatineau.geotechnicalengineering.xyz/foundations/</loc>
-    <lastmod>2026-04-05</lastmod>
+    <loc>https://gatineau.geotechnicalengineering.xyz/foundations-fill/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -193,14 +193,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gatineau.geotechnicalengineering.xyz/laboratory-cbr/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <loc>https://gatineau.geotechnicalengineering.xyz/laboratory/</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gatineau.geotechnicalengineering.xyz/laboratory/</loc>
-    <lastmod>2026-05-11</lastmod>
+    <loc>https://gatineau.geotechnicalengineering.xyz/laboratory-cbr/</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -259,6 +259,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gatineau.geotechnicalengineering.xyz/seismic/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gatineau.geotechnicalengineering.xyz/seismic-amplification-analysis/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -267,12 +273,6 @@
   <url>
     <loc>https://gatineau.geotechnicalengineering.xyz/seismic-foundation-design/</loc>
     <lastmod>2026-03-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gatineau.geotechnicalengineering.xyz/seismic/</loc>
-    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
